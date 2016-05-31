@@ -2,6 +2,4 @@
 
 Add config file in `configs` folder. 
 
-run `vagrant up
-
-`
+run `vagrant up`
