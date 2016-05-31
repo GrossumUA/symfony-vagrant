@@ -1,7 +1,7 @@
 .idea
 .vagrant
-!htdocs/.gitkeep
 htdocs/*
+!htdocs/.gitkeep
 *~
 
 configs/config.yml
