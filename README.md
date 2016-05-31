@@ -1,5 +1,5 @@
 # Symfony Vagrant
 
-Add config file in `configs` folder. 
+Add `config.yml` file in `configs` folder. 
 
 run `vagrant up`
